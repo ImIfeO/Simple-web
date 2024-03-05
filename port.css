@@ -1,0 +1,28 @@
+body{
+    background-image: url(good2.jpg);
+    background-repeat:no-repeat;
+    background-size:100vw 100vh;
+}
+
+a{
+    color: black;
+    margin-left: 40px;
+    background-color: white;
+}
+ a{
+    text-decoration: none;
+    color: black;
+    padding: 10px 40px;
+    border: 1px solid transparent;
+    transition: 0.4 ease;
+    margin-left: 600px;
+}
+h1{
+    color: gold;
+    font-size: 5em;
+}
+p{
+    font-size: larger;
+    color: white;
+    margin-left: 300px;
+}
